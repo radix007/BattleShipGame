@@ -3,7 +3,7 @@
 
 There are two battleships in the space and your Battleship is Hidden In The Saturn Dust .
 
-Your Ship Is The ""USS ENTERPRISE"" . Your Mission is to Save The humanity from The ""VULCANS"" .
+Your Ship Is The **USS ENTERPRISE** . Your Mission is to Save The humanity from The **VULCANS** .
 
 #Rules ::
 
