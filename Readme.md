@@ -11,3 +11,5 @@ Your Ship Is The **USS ENTERPRISE** . Your Mission is to Save The humanity from 
 - Enter the Desired Coordinates , Make Sure You enter the Coordinates wisely as you will only get 3 chances .
 - Coordinates Range (0-5)(0-5)
 -  You have to press enter after entering the value of x and the same goes for entering the value of y (Here x and y are the coordinates) .
+
+This is cli game . Will Make a gui soon . 
