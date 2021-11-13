@@ -1,17 +1,16 @@
-
 # Backstory ::
 
-**Based On The Movie** [Star Trek](https://en.wikipedia.org/wiki/Star_Trek_(film) "Star Trek")
+**Based on the movie** [Star Trek](<https://en.wikipedia.org/wiki/Star_Trek_(film)> "Star Trek")
 
-There are two battleships in the space and your Battleship is Hidden In The Saturn Dust .
+There are two battleships in the space and your battleship is hidden in the Saturn dust.
 
-Your Ship Is The **USS ENTERPRISE** . Your Mission is to Save The humanity from The **VULCANS** .
+Your ship is the **USS ENTERPRISE**. Your mission is to save the humanity from the **VULCANS**.
 
 # Rules ::
 
-- You have three chances to hit the VULCAN ship  before the VULCANS  figure out your position and You Fail To Save The Humanity .
-- Enter the Desired Coordinates , Make Sure You enter the Coordinates wisely as you will only get 3 chances .
-- Coordinates Range (0-5)(0-5)
--  You have to press enter after entering the value of x and the same goes for entering the value of y (Here x and y are the coordinates) .
+- You have three chances to hit the VULCAN ship before the VULCANS figure out your position and you fail to save the humanity.
+- Enter the desired coordinates, make sure you enter the coordinates wisely as you will only get 3 chances.
+- Coordinates Range (0-5)(0-5).
+- You have to press enter after entering the value of x and the same goes for entering the value of y (Here x and y are the coordinates).
 
-This is a  CLI game . Will make a GUI Soon . 
+This is a CLI game . Will make a GUI soon.
