@@ -1,6 +1,7 @@
 # Backstory ::
 
 **Based on the movie** [Star Trek](<https://en.wikipedia.org/wiki/Star_Trek_(film)> "Star Trek")
+**You can watch the final clip of the movie here leading up to the scene around which the game resolves [here](https://www.youtube.com/watch?v=zlGRNRAL148)> here")**
 
 There are two battleships in the space and your battleship is hidden in the Saturn dust.
 
@@ -13,4 +14,4 @@ Your ship is the **USS ENTERPRISE**. Your mission is to save the humanity from t
 - Coordinates Range (0-5)(0-5).
 - You have to press enter after entering the value of x and the same goes for entering the value of y (Here x and y are the coordinates).
 
-This is a CLI game . Will make a GUI soon.
+This is a CLI game. I am working on a Graphical version.
