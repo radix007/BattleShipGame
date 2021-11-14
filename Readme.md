@@ -37,4 +37,4 @@ java battletest
 
 # Contributing ::
 
-> Please check out the CONTRIBUTING.md guide on how you can actively participate in the development of this classic game. It's pretty easy and fun!
+> Please check out the [CONTRIBUTING.md](Contributing.md) guide on how you can actively participate in the development of this classic game. It's pretty easy and fun!
