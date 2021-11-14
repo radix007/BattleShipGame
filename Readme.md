@@ -16,7 +16,7 @@
 
 ![Battleship Game](Image/Demo.png)
 
-- This is a command line interface game as of now, I am working on a graphical version.
+> This is a command line interface game as of now, I am working on a graphical version.
 
 <br>
 
