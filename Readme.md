@@ -34,3 +34,7 @@ java battletest
 - Enter the desired coordinates, make sure you enter the coordinates wisely as you will only get 3 chances.
 - Coordinates Range (0-5)(0-5).
 - You have to press enter after entering the value of x and the same goes for entering the value of y (Here x and y are the coordinates).
+
+# Contributing ::
+
+> Please check out the CONTRIBUTING.md guide on how you can actively participate in the development of this classic game. It's pretty easy and fun!
