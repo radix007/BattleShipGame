@@ -1,8 +1,21 @@
 # Contributing ::
 
-First of all, I would be extremely delighted if people start playing this game and start contributing towards this small project of mine.
+First of all, I would be extremely delighted if people start playing this game and start contributing towards this small project of mine. There are just a few small guidelines you need to follow.
 
-By participating in this project, you agree to play nice with others.
+## Code reviews ::
+
+All submissions, including submissions by project members, require review. We
+use GitHub pull requests for this purpose. Consult
+[GitHub Help](https://help.github.com/articles/about-pull-requests/) for more
+information on using pull requests.
+
+
+# Community Guidelines ::
+
+This project follows
+[Google's Open Source Community Guidelines](https://opensource.google.com/conduct/).
+
+# How to contribute ::
 
 Fork this repo. Make changes and then push to your fork and then submit a pull request.
 
