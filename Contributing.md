@@ -2,7 +2,7 @@
 
 First of all, I would be extremely delighted if people start playing this game and start contributing towards this small project of mine. There are just a few small guidelines you need to follow.
 
-## Code reviews ::
+## Code Reviews ::
 
 All submissions, including submissions by project members, require review. We
 use GitHub pull requests for this purpose. Consult
