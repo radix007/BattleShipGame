@@ -37,4 +37,8 @@ java battletest
 
 # Contributing ::
 
-> Please check out the [CONTRIBUTING.md](Contributing.md) guide on how you can actively participate in the development of this classic game. It's pretty easy and fun!
+> Please check out the [contributing.md](Contributing.md) guide on how you can actively participate in the development of this classic game. It's pretty easy and fun!
+
+# License ![GitHub](https://img.shields.io/badge/license-GPL--3.0%20License%20-blue)
+
+This project is licensed under the GNU General Public License v3.0 - see the [License.md](https://github.com/radix007/BattleShipGame/blob/master/LICENSE) file for more details.
